@@ -1,0 +1,79 @@
+// header
+.about-header{
+    background-color: $primary;
+    color: white;
+    padding: 4rem;
+
+    h1{
+        font-size: 3rem;
+        font-weight: 900;
+    }
+}
+
+.about-hero{
+    h2{
+        color: $primary;
+        font-size: 2rem;
+    }
+}
+
+.mission{
+
+    article{
+        margin-bottom: 2rem;
+    
+    h4{
+        font-size: 1.5rem;
+    }
+
+    p{
+        color: $text-light;
+    }
+
+    a{
+        color: black;
+        font-size: 2rem;
+        margin-right: 1.5rem;
+    }
+
+}
+}
+
+// Team
+
+.team{
+    background-color: $bg;
+    padding: 6rem 0;
+
+    p{
+        font-size: 1.4rem;
+    }
+
+    article{
+        margin-top: 2rem;
+        text-align: center;
+        background-color: white;
+        border-radius: 1rem;
+        // padding: 1rem;
+
+        blockquote{
+            font-size: 1.5rem;
+            margin-top: 1rem;
+        }
+        p{
+            font-size: 1rem;
+            color: $primary;
+            margin-bottom: 2rem;
+        }
+    }
+}
+
+// about-Sloution
+
+.about-solution{
+    button{
+        background-color: $primary;
+        color: white;
+        margin-top: 2rem;
+    }
+}
