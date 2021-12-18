@@ -1,0 +1,23 @@
+.products{
+    background-color: $bg;
+    padding: 5rem 0;
+
+    article{
+        margin-top: 4rem;
+
+        h6{
+            font-size: 1.4rem;
+            margin: 1rem 0;
+        }
+
+        img{
+            width: 20%;
+        }
+    }
+}
+
+.awarded{
+    center{
+        margin-bottom: 4rem;
+    }
+}
